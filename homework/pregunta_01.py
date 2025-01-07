@@ -92,4 +92,3 @@ def pregunta_01():
     solution("files\\input\\test","files\\output","test_dataset.csv")
     solution("files\\input\\train","files\\output","train_dataset.csv")
 
-pregunta_01()
